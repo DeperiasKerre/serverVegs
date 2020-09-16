@@ -13,9 +13,9 @@ public class DatabaseConnection {
         // Database Connection
 //        String dbDriver = "com.mysql.jdbc.Driver";
         String dbDriver = "com.mysql.cj.jdbc.Driver";
-        String dbURL = "jdbc:mysql:// localhost:3307/";
+        String dbURL = "jdbc:mysql:// localhost:3306/";
         // Database name to access
-        String dbName = "vegetableserviceengine";
+        String dbName = "mydb";
         String dbUsername = "root";
         String dbPassword = "1234";
 
